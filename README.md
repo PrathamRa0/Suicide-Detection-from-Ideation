@@ -24,8 +24,8 @@ Download all three files for the word2vec trained model from the drive link and 
 Run webscrpaer.py to open a listener that gives outputs on a live feed from the subreddit.
 
 ### Team members-
-Rohan Lingeri - PES1UG20CS348
-Pratham Rao - PES1UG20CS306
-Rijul Saxena - PES1UG20CS336
+Rohan Lingeri - PES1UG20CS348  
+Pratham Rao - PES1UG20CS306  
+Rijul Saxena - PES1UG20CS336  
 
 
