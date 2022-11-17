@@ -2,7 +2,7 @@
 
 Main codefile: Webscraper.py  
   
-[link to saved Word2vec model not uploaded due to size limits](https://drive.google.com/drive/folders/1kQwjiMsve8nV54Ic0he0LysqK2GS_arj?usp=sharing)
+[link to saved Word2vec model not uploaded due to size limits](https://drive.google.com/drive/folders/1kQwjiMsve8nV54Ic0he0LysqK2GS_arj?usp=sharing)  
 [link to dataset](https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch)
 
 ## Abstract
