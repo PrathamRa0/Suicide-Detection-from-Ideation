@@ -2,9 +2,9 @@
 
 Main codefile: Webscraper.py  
   
-[link to saved Word2vec model (due to size constraints)](https://drive.google.com/drive/folders/1kQwjiMsve8nV54Ic0he0LysqK2GS_arj?usp=sharing)  
-[link to dataset](https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch)  
-[Demo video link](https://drive.google.com/drive/folders/16hsP1R292J6Pr8caYXnBpsypmf2gelYL?usp=sharing)
+[Link to dataset](https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch)  
+[Link to saved Word2vec model (due to size constraints)](https://drive.google.com/drive/folders/1kQwjiMsve8nV54Ic0he0LysqK2GS_arj?usp=sharing)  
+[Link to demo video](https://drive.google.com/drive/folders/16hsP1R292J6Pr8caYXnBpsypmf2gelYL?usp=sharing)
 
 ## Abstract
 Suicide is considered a low baseline behavior, which makes it challenging to predict. More than 700,000 people commit suicide each year. Reddit can be a good asset to detect the signs of suicide in a faster and more effective way thanks to the speed of information disseminated through it. By using machine learning and text analysis models, we examined how to predict suicide risk from written communications in an effort to advance suicide prediction and prevention. Specifically, we used a dataset
